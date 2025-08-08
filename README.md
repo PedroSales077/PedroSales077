@@ -1,6 +1,5 @@
 # PedroSales0777
 
-📌 Pedro Henrique Sales Santos
 👋 Olá! Seja bem-vindo ao meu GitHub!
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento web, sistemas inteligentes e soluções criativas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco evoluir continuamente através de projetos práticos e estudos em áreas como front-end, back-end, automação e IoT.
 
