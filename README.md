@@ -25,9 +25,11 @@ Integração de sistemas com hardware (IoT)
 Desenvolvimento de dashboards e visualização de dados
 
 💼 Projetos em destaque
-Projeto	                                           Descrição	                                               Tecnologias
-Fit Alert                    Sistema de monitoramento de fluxo em provadores                    HTML, CSS, JS, Arduino, Dashboard
-Horizon Tuner               Site interativo com garagem e visual 3D de carros	                      HTML, JS, CSS, Modelos 3D
+Fit Alert: Sistema de monitoramento de fluxo em provadores
+Tecnologia envolvida: HTML, CSS, JS, Arduino, Dashboard
+
+Horizon Tuner: site interativo com garagem e visual 3D de carros
+Tecnologias envolvidas: HTML, JS, CSS
 
 
 ✉️ Contato
