@@ -26,9 +26,12 @@ Desenvolvimento de dashboards e visualização de dados
 
 💼 Projetos em destaque
 Fit Alert: Sistema de monitoramento de fluxo em provadores
+
 Tecnologia envolvida: HTML, CSS, JS, Arduino, Dashboard
 
+
 Horizon Tuner: site interativo com garagem e visual 3D de carros
+
 Tecnologias envolvidas: HTML, JS, CSS
 
 
