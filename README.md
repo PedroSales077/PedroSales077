@@ -16,6 +16,7 @@ Hardware: Arduino, sensores diversos (LDR, umidade, movimento)
 Outros: Git, GitHub, Figma, APIs REST
 
 🧠 Estou estudando
+
 Arquitetura de Computadores
 
 Algoritmos e Estrutura de Dados
@@ -25,13 +26,12 @@ Integração de sistemas com hardware (IoT)
 Desenvolvimento de dashboards e visualização de dados
 
 💼 Projetos em destaque
-Fit Alert: Sistema de monitoramento de fluxo em provadores
 
+Fit Alert: Sistema de monitoramento de fluxo em provadores
 Tecnologia envolvida: HTML, CSS, JS, Arduino, Dashboard
 
 
 Horizon Tuner: site interativo com garagem e visual 3D de carros
-
 Tecnologias envolvidas: HTML, JS, CSS
 
 
